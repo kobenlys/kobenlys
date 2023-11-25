@@ -14,7 +14,7 @@
 
 <div align="center">
  
-   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKoben&layout=compact&theme=dracula&langs_count=8"/>
+   <img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKoben&layout=compact&theme=dracula&langs_count=8"/>
  
  
   ## 🛠SKILL🛠
