@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={koben})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={vlfxhd69})](https://solved.ac/{vlfxhd69})
 <!--
 **DevKoben/DevKoben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
