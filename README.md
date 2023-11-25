@@ -7,13 +7,14 @@
 
   <a href="https://velog.io/@vlfxhd69"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/><a/>
 
-    
+  <br>
+  <br>
+  <br>
 <div/>
 
 <div align="center">
  
-  
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=DevKoben&layout=compact&theme=dracula&langs_count=8"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKoben&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
  
  
   ## 🛠SKILL🛠
