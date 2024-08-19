@@ -2,11 +2,21 @@
 
  <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:97bef2,100:afda52&height=120&text=🙋‍♂️%20Hi%20there&animation=fadeIn&fontColor=449eca&fontSize=50" />
-   |방문자목록|이름|
-   |---------|----|
+    <table>
+     <caption>방문자 목록</caption>
+     <tr>
+      <td>김성현</td>
+     </tr>
+     <tr>
+      <td>하지원(남)</td>
+     </tr>
+     <tr>
+      <td>정재현(남)</td>
+     </tr>
+    </table>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Youngseok's Github </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Youngseok's Github (영석 공듀) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 뚝딱뚝딱 공사중 - 성현이 왔다감</div> 
     </div>
     <div align= "center">
