@@ -2,6 +2,8 @@
 
  <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:97bef2,100:afda52&height=120&text=🙋‍♂️%20Hi%20there&animation=fadeIn&fontColor=449eca&fontSize=50" />
+   |방문자목록|이름|
+   |---------|----|
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Youngseok's Github </h2>  
