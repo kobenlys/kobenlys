@@ -5,7 +5,7 @@
     <table>
      <caption>방문자 목록</caption>
      <tr>
-      <td>김성현</td>
+      <td>김성현(여)</td>
      </tr>
      <tr>
       <td>하지원(남)</td>
