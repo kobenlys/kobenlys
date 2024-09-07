@@ -51,5 +51,6 @@
      <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kobenlys&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobenlys&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /></div> 
-    
+    [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=vlfxhd69)](https://solved.ac/profile/vlfxhd69)
+    </div>
    </div>
