@@ -16,7 +16,7 @@
     </table>
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Youngseok's Github (영석 공듀) </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 뚝딱뚝딱 공사중 - 성현이 왔다감</div> 
     </div>
     <div align= "center">
