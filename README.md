@@ -2,18 +2,6 @@
 
  <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:97bef2,100:afda52&height=120&text=🙋‍♂️%20Hi%20there&animation=fadeIn&fontColor=449eca&fontSize=50" />
-    <table>
-     <caption>방문자 목록</caption>
-     <tr>
-      <td>김성현(여)</td>
-     </tr>
-     <tr>
-      <td>하지원(남)</td>
-     </tr>
-     <tr>
-      <td>정재현(남)</td>
-     </tr>
-    </table>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello World </h2>  
