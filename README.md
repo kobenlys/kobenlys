@@ -32,8 +32,8 @@
 <br>
 
 ### 💻 프로젝트 경험이 있어요.
-- [Jippy](https://github.com/JIPPY-HBHW) : 소상공인 자영업자들을 위한 All In One 매장관리 서비스
-- [K6Weaver](https://github.com/kobenlys/K6Weaver) : K6 부하 테스트 스크립트를 코드 분석을 통해 자동 생성해주는 라이브러리
+- [Jippy](https://github.com/JIPPY-HBHW) : 소상공인 자영업자들을 위한 All In One 매장관리 서비스 ☕
+- [K6Weaver](https://github.com/kobenlys/K6Weaver) : K6 부하 테스트 스크립트를 코드 분석을 통해 자동 생성해주는 라이브러리 ✅ [MVN 배포완료!](https://mvnrepository.com/artifact/io.github.kobenlys/K6Weaver)
 
 <br>
 
