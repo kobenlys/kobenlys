@@ -50,4 +50,4 @@
 
 <img src='https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg' width=20/> [벨로그 기술블로그](https://velog.io/@dl_01312) (최신)
 <br>
-<img src='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' width=20/> [티스토리 기술블로그](https://itstory1592.tistory.com) (이전)
+<img src='https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg' width=20/> [티스토리 기술블로그](https://byesbera.tistory.com) (이전)
