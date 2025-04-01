@@ -13,7 +13,7 @@
 - 현실적인 문제를 효과적으로 해결하는 개발자가 되는 것이 목표입니다. 🔥
 <br>
 
-### 🔋 Teck Stacks
+### 🔋 Tech Stacks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
