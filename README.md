@@ -39,7 +39,7 @@
 
 ### 🏅 수상 경험이 있어요.
 
-- 1학기 성적 우수상 - 삼성 청년 소프트웨어 아카데미 (SSAFY) (2024.11) : Spring, DB, Algoritm 등 학습하였습니다.
+- 1학기 성적 우수상 - 삼성 청년 소프트웨어 아카데미 (SSAFY) (2024.11) : Spring, DB, Algorithm 등 학습하였습니다.
 - 공통 프로젝트 우수상 -  삼성 청년 소프트웨어 아카데미 (SSAFY) (2025.02): [올인원 매장 관리 서비스 JIPPY ☕](https://github.com/JIPPY-HBHW)
 
 <br>
