@@ -4,7 +4,7 @@
 
 최근에는 **`Library`** / **`Spring Cloud`** / **`Architecture`** 개발에 관심이 많습니다.
 
-저에 대해 자세히 알고 싶은가요? 👉 **[포트폴리오](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259),**
+저에 대해 자세히 알고 싶은가요? 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오](https://drive.google.com/file/d/1aYU6h5Ukj6GDLAklvDkEnyAIZsIy1O0y/view)**
 
 - 코드에 쓰임이 생길때 보람을 느낍니다.
 - 근거 기반의 기술 도입을 위해 건강한 토론을 중요하게 생각합니다.
@@ -35,6 +35,7 @@
 <br>
 
 ### 💻 프로젝트 경험이 있어요.
+- [NokBank](https://github.com/kobenlys/NokBank) : 디지털 취약계층을 위한 폰뱅킹 NokBank 🏦
 - [Jippy](https://github.com/JIPPY-HBHW) : 소상공인 자영업자들을 위한 All In One 매장관리 서비스 ☕
 - [K6Weaver](https://github.com/kobenlys/K6Weaver) : K6 부하 테스트 스크립트를 코드 분석을 통해 자동 생성해주는 라이브러리 ✅ [MVN 배포완료!](https://mvnrepository.com/artifact/io.github.kobenlys/K6Weaver)
 
