@@ -4,7 +4,7 @@
 
 최근에는 **`Library`** / **`Spring Cloud`** / **`Architecture`** 개발에 관심이 많습니다.
 
-저에 대해 자세히 알고 싶은가요? 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오](https://drive.google.com/file/d/1NfoHjdLgHrmJiFQ1pn_qXb7xvySgxHrs/view)**
+저에 대해 자세히 알고 싶은가요? 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오]()**
 
 - 코드에 쓰임이 생길때 보람을 느낍니다.
 - 근거 기반의 기술 도입을 위해 건강한 토론을 중요하게 생각합니다.
