@@ -1,34 +1,9 @@
 ### 소개
 
-안녕하세요 :) **Back-end 개발자 이영석**입니다. 👋🏻
+안녕하세요 :) **개발자 이영석**입니다. 👋🏻
+👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오]()**
 
-최근에는 **`Library`** / **`Spring Cloud`** / **`Architecture`** 개발에 관심이 많습니다.
-
-저에 대해 자세히 알고 싶은가요? 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오]()**
-
-- 코드에 쓰임이 생길때 보람을 느낍니다.
-- 근거 기반의 기술 도입을 위해 건강한 토론을 중요하게 생각합니다.
-- 더 나은 코드설계를 고민하는 과정에 흥미를 느낍니다.
-- 새로운 기술을 배우고 이를 프로젝트에 적용해보는 것에 관심이 있습니다.
-- 현실적인 문제를 효과적으로 해결하는 개발자가 되는 것이 목표입니다. 🔥
 <br>
-
-### 🔋 Tech Stacks
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white"/> <br> 
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
  <div><a href="https://solved.ac/profile/vlfxhd69"> <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=vlfxhd69"></a></div>
 
@@ -47,6 +22,11 @@
 - 공통 프로젝트 우수상 -  삼성 청년 소프트웨어 아카데미 (SSAFY) (2025.02): [올인원 매장 관리 서비스 JIPPY ☕](https://github.com/JIPPY-HBHW)
 
 <br>
+
+### 🧑🏻‍💻 Career
+
+- **(주)넷앤드 (Netand)**
+  - **Full-Stack Developer** `2025.09 ~ Present`
 
 <br>
 
