@@ -21,7 +21,7 @@
 ### 🧑🏻‍💻 Career
 
 - **(주)넷앤드 (Netand)**
-  - **Full-Stack Developer** `2025.09 ~ Present`
+  - `2025.09 ~ Present`
 
 <br>
 
