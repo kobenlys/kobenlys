@@ -1,6 +1,4 @@
-### 소개
-
-안녕하세요 :) **개발자 이영석**입니다. 👋🏻
+### 안녕하세요 :) **개발자 이영석**입니다. 👋🏻
 
 ![TokenPhage](https://api.tokenphage.com/badge/kobenlys?theme=claude&mode=light)
 
