@@ -1,8 +1,12 @@
 ### 소개
 
 안녕하세요 :) **개발자 이영석**입니다. 👋🏻
+
+![TokenPhage](https://api.tokenphage.com/badge/kobenlys?theme=claude&mode=light)
+
 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오]()**
 
+<br>
 
 ### 💻 프로젝트 경험이 있어요.
 - [NokBank](https://github.com/kobenlys/NokBank) : 디지털 취약계층을 위한 폰뱅킹 NokBank 🏦
