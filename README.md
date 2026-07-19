@@ -1,6 +1,6 @@
 ### 안녕하세요 :) **개발자 이영석**입니다. 👋🏻
 
-[![Tokenphage](https://api.tokenphage.com/badge/kobenlys?theme=claude&mode=light)](https://github.com/TOKENPHAGE/tokenphage-api)
+[![Tokenphage](https://api.tokenphage.com/badge/kobenlys?theme=grass-claude&mode=light)](https://github.com/TOKENPHAGE/tokenphage-api)
 
 👉 **[이력서](https://phrygian-stay-f2e.notion.site/1d7fdab27bf180848fa3d7ae20f3d259), [포트폴리오]()**
 
