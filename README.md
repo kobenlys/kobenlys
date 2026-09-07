@@ -49,6 +49,6 @@
 
 <br>
 
-### ✅ Badge
+### ✅ ETC
 
-[![Tokenphage](https://api.tokenphage.com/badge/kobenlys?theme=beta-tester&mode=cyan)](https://github.com/TOKENPHAGE)
+[![Tokenphage](https://api.tokenphage.com/badge/kobenlys?theme=beta-tester&mode=green)](https://github.com/TOKENPHAGE)
