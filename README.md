@@ -4,7 +4,7 @@
 
 [![Tokenphage](https://api.tokenphage.com/badge/kobenlys?theme=grass-claude&mode=light)](https://github.com/TOKENPHAGE)
 
-<a href="https://github.com/TOKENPHAGE"><img src="https://api.tokenphage.com/badge/kobenlys?theme=odometer-claude" alt="Tokenphage" align="absmiddle"/></a>&nbsp;&nbsp;**[이력서]()** · **[포트폴리오]()** · **[LinkedIn]()**
+<a href="https://github.com/TOKENPHAGE"><img src="https://api.tokenphage.com/badge/kobenlys?theme=odometer-claude" alt="Tokenphage" align="absmiddle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[이력서]()** · **[포트폴리오]()** · **[LinkedIn]()**
 
 </div>
 
